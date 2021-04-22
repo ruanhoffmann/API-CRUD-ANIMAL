@@ -1,19 +1,30 @@
 # API-CRUD-ANIMAL
 
+O QUE FOI USADO NO PROJETO:
+
+Linguagem JAVA, Criação do projeto com Spring, usado Maven.
+
+Dependências: LOMBOK e H2.
+
+Server: TOMCAT.
+
+Para Testar: POSTMAN.
+____________________________________________________________________________________________________________________________________
+
 BAIXANDO O ARQUIVO API:
 
 1º Passo: Faça o download do arquivo no Github.
 
 2º Passo: Passe para a pasta de Documentos e extraia o ZIP na pasta.
 
-__________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________________________
 
 ABRINDO O ARQUIVO NO INTELLIJ:
 
 1º Passo:  Abra seu Intellij e clique no canto superior esquerdo "File", em seguida clique em "Open".
 
 2º Passo: Vá para a pasta Documentos e encontre a pasta api e clique nela para selecionar, em sequida clique em OK.
-__________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________________________
 
 TESTANDO A API
 
