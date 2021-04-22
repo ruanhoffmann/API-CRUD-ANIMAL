@@ -18,10 +18,15 @@ ________________________________________________________________________________
 TESTANDO A API
 
 1º Passo: Com o projeto aberto, clique em src -> java -> com.example.APICrudAnimais.api -> controller -> AnimaisController.
+
 2º Passo: Abra ApiApplication em com.example.APICrudAnimais.api, e depois clique em Run(canto superior direito).
+
 3º Passo: O Intellij vai começar a contruir a API no seu PC, e em sequida o TOMCAT vai startar o server na porta 8080.
+
 4º Passo: Abra o PostMan no Google Chrome, e em Collections mesmo, clique em body, depois  raw, depois em Text e altere para JSON.
+
 5º Passo: Selecione POST e insira essa URL http://localhost:8080/animal
+
 6º Passo: Copie e cole essa linha de código: 
 {
     "descricaoAnimal": "Cachorro"
@@ -29,4 +34,5 @@ TESTANDO A API
 }
 
 7º Passo: Clique em Send.
+
 8º Passo: Após ir inserindo os animais, troque de POST para GET, e ai você vai puxar os animais que acabou de adicionar.
