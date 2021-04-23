@@ -21,9 +21,9 @@ DESCRIÇÃO DO OBJETO ANIMAL:
   
   * CRIADAS SEPARADAMENTE*
 
-  Enum grupoAnimais (TERRESTRES, AQUATICOS, AEREOS);
+  Enum grupoAnimais (TERRESTRE, AQUATICO, AEREO);
 
-  Enum classeAnimais (MAMIFEROS, REPTIL, AVES, ANFIBIOS, PEIXES);
+  Enum classeAnimais (MAMIFERO, REPTIL, AVE, ANFIBIO, PEIXE);
 ____________________________________________________________________________________________________________________________________
 
 BAIXANDO O ARQUIVO API:
@@ -64,9 +64,9 @@ TESTANDO COM O POSTMAN:
 OBS: Ao preencher o grupoAnimais e classeAnimais siga a nomenclatura em MAIÚSCULO e sem ASSENTUCAO, segue abaixo:
 
 
-grupoAnimais (TERRESTRES, AQUATICOS, AEREOS);              
+grupoAnimais (TERRESTRE, AQUATICO, AEREO);              
                                                            
-classeAnimais (MAMIFEROS, REPTIL, AVES, ANFIBIOS, PEIXES); 
+classeAnimais (MAMIFERO, REPTIL, AVE, ANFIBIO, PEIXE); 
 
 
 {
