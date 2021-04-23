@@ -38,7 +38,7 @@ ABRINDO O ARQUIVO NO INTELLIJ:
 
 1º Passo:  Abra seu Intellij e clique no canto superior esquerdo "File", em seguida clique em "Open".
 
-2º Passo: Vá para a pasta Documentos e encontre a pasta api e clique nela para selecionar, em sequida clique em OK.
+2º Passo: Vá para a pasta Documentos e encontre a pasta api e clique nela para selecionar, em seguida clique em OK.
 
 ____________________________________________________________________________________________________________________________________
 
@@ -63,11 +63,11 @@ TESTANDO COM O POSTMAN:
 
 OBS: Ao preencher o grupoAnimais e classeAnimais siga a nomenclatura em MAIÚSCULO e sem ASSENTUCAO, segue abaixo:
 
-+------------------------------------------------------------+
-| grupoAnimais (TERRESTRES, AQUATICOS, AEREOS);              |
-|                                                            |
-| classeAnimais (MAMIFEROS, REPTIL, AVES, ANFIBIOS, PEIXES); |
-+------------------------------------------------------------+ 
+
+grupoAnimais (TERRESTRES, AQUATICOS, AEREOS);              
+                                                           
+classeAnimais (MAMIFEROS, REPTIL, AVES, ANFIBIOS, PEIXES); 
+
 
 {
     "descricaoAnimal": "Cachorro",
